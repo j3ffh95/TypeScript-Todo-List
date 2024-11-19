@@ -22,7 +22,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/typescript-todo-list.git
+    git clone https://github.com/j3ffh95/typescript-todo-list.git
     cd typescript-todo-list
     ```
 
