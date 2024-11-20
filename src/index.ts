@@ -9,5 +9,10 @@ form?.addEventListener("submit", e => {
 
   if (input?.value == "" || input?.value == null) return;
 
-  input.value;
+  const task = {
+    id: uuidv4(),
+    title: input.value,
+    completed: false,
+    createdAt: new Date(),
+  };
 });
